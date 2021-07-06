@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(255,255,255);  
+  background("green");  
   movingRect.x=World.mouseX;
   movingRect.y=World.mouseY;
 
